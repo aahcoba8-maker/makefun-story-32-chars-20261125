@@ -14,6 +14,6 @@ gets the joke on the first read and can fill in the rest of the story.
 the kit's 1–32 character, single-line rule plus a plain-ASCII check so
 the name works as a real SSID.
 
-![make.fun badge](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978.svg)
+[![make.fun · u-xvader-tell-a-whole-story-in-32-characters-f86dd978](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978.svg)](https://make.fun/bounty/u-xvader-tell-a-whole-story-in-32-characters-f86dd978?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-tell-a-whole-story-in-32-characters-f86dd978)
 [![make.fun rank](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978/aahcoba8-maker/makefun-story-32-chars-20261125/rank.svg)](https://make.fun/bounty/u-xvader-tell-a-whole-story-in-32-characters-f86dd978)
 [![make.fun reward](https://make.fun/badge/u-xvader-tell-a-whole-story-in-32-characters-f86dd978/aahcoba8-maker/makefun-story-32-chars-20261125/reward.svg)](https://make.fun/bounty/u-xvader-tell-a-whole-story-in-32-characters-f86dd978)
